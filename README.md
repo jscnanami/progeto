@@ -1,2 +1,2 @@
 # progeto
-meu primeiro repositorio no github
+meu primeiro progeto com o git
